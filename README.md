@@ -1,0 +1,1 @@
+Welcome to my SQL Portfolio. This code repository contains examples of SQL I've written for data exploration and analysis. Please feel free to reach out to me if you have any questions! # SQL-Portfolio
